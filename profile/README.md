@@ -1,10 +1,10 @@
-[![Logo Image](https://raw.githubusercontent.com/tendixhq/.github/main/tendix.png)](https://github.com/tendixhq)
+[![Logo Image](https://raw.githubusercontent.com/payminthq/.github/main/banner.png)](https://github.com/payminthq)
 
-# ⚡ Tendix
+# ⚡ paymint
 
 **We’re building the EEA’s best Point of Sale system.**
 
-Tendix is a modern, enterprise-grade POS platform designed to **supercharge retail businesses** — from independent shops to multi-store operations.
+paymint is a modern, enterprise-grade POS platform designed to **supercharge retail businesses** — from independent shops to multi-store operations.
 
 Fast. Reliable. Built for real-world retail.
 
@@ -28,8 +28,8 @@ Retail software should be:
 - Simple to use
 - Powerful under the hood
 
-Tendix aims to become the **default POS platform across the EEA**.
+paymint aims to become the **default POS platform across the EEA**.
 
 ---
 
-⚡ **Supercharge your retail business with Tendix.**
+⚡ **Supercharge your retail business with paymint.**
